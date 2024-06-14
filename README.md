@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benjiprores
-- 👀 I’m interested in Fullstack Development
+- 👀 I’m interested in Fullstack Development, IOS Development, Mobile App Development etc.
 - 🌱 I’m currently learning Node Js
 - 💞️ I’m looking to collaborate on building Mobile Applications and Responsive Websites
 - 📫 How to reach me @iambenji on X(Twitter)
